@@ -1,3 +1,1 @@
-# Alura-
-Curso desenvolvido pela escola Alura.
-Primeiro projeto desenvolvido pela formação Front-End da escola Alura, utilizando HTML e CSS puro.
+Primeiro curso desenvolvido com a escola de formação Front-End da Alura, utilizando HTML e CSS
